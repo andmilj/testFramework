@@ -1,0 +1,21 @@
+{
+  "name": "testFramework",
+  "version": "0.0.1",
+  "authors": [
+    "amiljus <andrej.miljus@infobip.com>"
+  ],
+  "description": "zero project",
+  "main": "app.js",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ]
+}

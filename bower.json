@@ -17,5 +17,9 @@
     "public/lib",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "sizzle": "~2.0.0"
+  }
 }
